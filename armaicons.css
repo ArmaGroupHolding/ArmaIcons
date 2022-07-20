@@ -1,16 +1,16 @@
 @font-face {
   font-family: 'armaicons';
-  src:  url('fonts/armaicons.eot?w0si2z');
-  src:  url('fonts/armaicons.eot?w0si2z#iefix') format('embedded-opentype'),
-    url('fonts/armaicons.ttf?w0si2z') format('truetype'),
-    url('fonts/armaicons.woff?w0si2z') format('woff'),
-    url('fonts/armaicons.svg?w0si2z#armaicons') format('svg');
+  src:  url('fonts/armaicons.eot?mt18sn');
+  src:  url('fonts/armaicons.eot?mt18sn#iefix') format('embedded-opentype'),
+    url('fonts/armaicons.ttf?mt18sn') format('truetype'),
+    url('fonts/armaicons.woff?mt18sn') format('woff'),
+    url('fonts/armaicons.svg?mt18sn#armaicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^="arm-"], [class*=" arm-"] {
+i {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'armaicons' !important;
   speak: never;

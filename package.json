@@ -2,13 +2,17 @@
   "name": "armaicons",
   "version": "1.0.0",
   "description": "Arama Group IconSet",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmaGroupHolding/ArmaIcons.git"
   },
   "keywords": [
     "icons"
   ],
   "author": "By Serdar",
-  "license": "ISC"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArmaGroupHolding/ArmaIcons/issues"
+  },
+  "homepage": "https://github.com/ArmaGroupHolding/ArmaIcons#readme"
 }

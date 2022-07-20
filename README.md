@@ -4,6 +4,6 @@
 
 ![ArmaLogo](https://armagroupholding.com/assets/img/logo.png "ArmaIcons")
 
-Font Icon Library for Prime UI Libraries: [ArmaTech](https://armagroupholding.com/) | [Mail](https://armagroupholding.com/) | [Drive](https://armagroupholding.com/) | [Arama Motoru](https://www.bul.com.tr)
+Font Icon Library for ArmaTech UI IconSet: [ArmaTech](https://armagroupholding.com/) | [Mail](https://armagroupholding.com/) | [Drive](https://armagroupholding.com/) | [Arama Motoru](https://www.bul.com.tr)
 
 ---
